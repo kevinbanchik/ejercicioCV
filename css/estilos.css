@@ -52,6 +52,7 @@ p {
   font-family: 'Open Sans', sans-serif;
 }
 
+
 #titulo_principal {
 	background-color: rgba(2, 126, 12, 0.33);
 	color: white;
@@ -66,4 +67,9 @@ p {
 	color:black;
 	font-weight: bold;
 	font-size: 23px;
+}
+
+#negro{
+  width: 40%;
+  margin-left: 400px;
 }
