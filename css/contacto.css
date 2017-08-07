@@ -1,0 +1,7 @@
+input:focus textarea:focus{
+  border-color: red;
+}
+
+textarea {
+  resize: vertical;
+}
