@@ -8,3 +8,57 @@ img:hover {
     filter: FlipH;
     -ms-filter: "FlipH";
 }
+
+.title {
+  background-color: blue;
+}
+
+.info {
+  background-color: red;
+  overflow: hidden;
+  width: 960px;
+  padding: 30px;
+  box-sizing: border-box;
+  margin-left: 165px;
+}
+.galeria {
+  width: 100%;
+  overflow: hidden;
+}
+.fotitos {
+  float: left;
+  width: 180px;
+}
+.cont {
+  float: left;
+}
+.enlaces {
+  background-color: blue;
+  width: 30%;
+  margin-right: 2%;
+  margin-left: 2%;
+}
+
+.media {
+  width: 300px;
+  width: 60%;
+  margin-right: 2%;
+  margin-left: 2%;
+
+}
+.copyright {
+  width: 630px;
+  float: right;
+}
+
+.sep {
+
+  background-color: blue;
+  margin-top: 5px;
+  margin-bottom: 5px;
+  border: 1px solid white;
+}
+
+div.copyright {
+  text-align: right;
+}
